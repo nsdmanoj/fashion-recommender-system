@@ -27,6 +27,9 @@ Use the file uploader in the web interface to upload an image of a fashion item.
 
 View Recommendations:
 Once uploaded, the system processes the image, extracts its features using ResNet50, and displays a list of visually similar fashion items.
+![Screenshot 2024-07-03 185934](https://github.com/nsdmanoj/fashion-recommender-system/assets/114307491/e2c41ef5-6c29-4aea-9164-e88194357fb3)
+
+
 
 Explore Recommendations:
 Click on recommended images to view details such as product information, prices, and links to purchase or learn more.
