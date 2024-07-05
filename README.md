@@ -16,12 +16,14 @@ Scalability and Adaptability: The system is designed to be scalable, allowing fo
 Usage
 Run the Application:
 
-Copy code
+code
 streamlit run app.py
 This command starts the Streamlit server and launches the web interface.
 
 Upload an Image:
 Use the file uploader in the web interface to upload an image of a fashion item.
+![Screenshot 2024-07-03 185857](https://github.com/nsdmanoj/fashion-recommender-system/assets/114307491/08afb754-8da2-4135-bdef-0280fad6643e)
+
 
 View Recommendations:
 Once uploaded, the system processes the image, extracts its features using ResNet50, and displays a list of visually similar fashion items.
